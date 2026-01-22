@@ -15,43 +15,12 @@
     <h2>☎️ Contacto</h2>
     <ul>
         <li>
-            <img src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" />
+            <img src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" height="35" width="35"/>
             <a href="https://wa.me/5491125709190">11 2570-9190</a>
         </li>
         <li>
-            <img src="https://skillicons.dev/icons?i=gmail&perline=10" />
-            <a href="mailto:andre.gutierrez9190@gmail.com">andre.gutierrez9190@gmail.com</a>
-        </li>
-        <li>
-            <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40" />
+            <img src="https://skillicons.dev/icons?i=gmail&perline=10" height="35" width="35"/>
             <a href="mailto:andre.gutierrez9190@gmail.com">andre.gutierrez9190@gmail.com</a>
         </li>
     </ul>
 </div>
-<style>
-*{
-  font-family: "Arimo", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  color:#fff
-  }
-  h2{
-    font-size:32px
-  }
-  ul{
-    font-size:18px;
-    padding-left: 0; 
-    list-style-type: none;
-  }
-  li{
-    display:flex;
-    align-items:center;
-    margin:10px
-  }
-  li img{
-    height:40px;
-    weight:40px;
-    margin-right:10px
-  }
-</style>
