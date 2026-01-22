@@ -6,8 +6,9 @@
 - ☁️ Soy un apasionado a las **tecnologias Webs**
 
 ## 🛠️Conocimiento técnico
-![Conocimientos de c,cpp,php,html,css,js,ts,nodejs,react,mysql,sqlite,git,github,vscode,linux,bash,py,vim,neovim,arduino](https://skillicons.dev/icons?i=c,cpp,php,html,css,js,ts,nodejs,react,mysql,sqlite,git,github,vscode,linux,bash,py,vim,neovim,arduino&perline=10)
-
-## 📊Actividad
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=andreguti9190&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
+### Lenguajes de progrmación
+![Lenguajes de programación](https://skillicons.dev/icons?i=c,cpp,php,html,css,js,ts,py&perline=10)
+### Entorno de desarrollos
+![Entornos de desarrollo](https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,bash,vim,neovim,arduino&perline=10)
+### Base de datos 
+![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
