@@ -1,4 +1,4 @@
-![Hola soy André Gutiérrez, Tecnica Informática](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffffff&size=40&vCenter=true&width=600&height=80&lines=Hola+soy+André+Gutiérrez👋;Técnico+Informático💻)
+![Hola soy André Gutiérrez, Tecnica Informática](https://readme-typing-svg.demolab.com?font=Time+New+Roma&weight=1000&size=30&duration=600&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=635&height=80&lines=Hola+soy+Andr%C3%A9+Guti%C3%A9rrez%F0%9F%91%8B;T%C3%A9cnico+Inform%C3%A1tico%F0%9F%92%BB)
 
 ## 🧮Sobre mi
 - 🔭 Trabajo con tecnologias backend **React, Nodejs, MySQL**
