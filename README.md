@@ -6,9 +6,9 @@
 - ☁️ Soy un apasionado a las **tecnologias Webs**
 
 ## 🛠️Conocimiento técnico
-### Lenguajes de progrmación
+### Lenguajes de programación
 ![Lenguajes de programación](https://skillicons.dev/icons?i=c,cpp,php,html,css,js,ts,py&perline=10)
-### Entorno de desarrollos
+### Entorno de desarrollo
 ![Entornos de desarrollo](https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,bash,vim,neovim,arduino&perline=10)
 ### Base de datos 
 ![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
