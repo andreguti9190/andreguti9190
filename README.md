@@ -1,6 +1,6 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-   <img width=90% src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=900&size=30&pause=1000&color=28cBFF&center=true&width=435&lines=Hola+soy+Andr%C3%A9+Guti%C3%A9rrez%F0%9F%91%8B;T%C3%A9cnico+Inform%C3%A1tico%F0%9F%92%BB+" alt="Typing SVG" />
+   <img width=80% src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=900&size=30&pause=1000&color=28cBFF&center=true&width=435&lines=Hola+soy+Andr%C3%A9+Guti%C3%A9rrez%F0%9F%91%8B;T%C3%A9cnico+Inform%C3%A1tico%F0%9F%92%BB+" alt="Typing SVG" />
 </div>
 
 ## 🧮Sobre mi
