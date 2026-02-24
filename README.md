@@ -4,12 +4,9 @@
 
 ## 🧮Sobre mi
 
-</div>
-
   Trabajo con tecnologias backend tales como **Nodejs, ExpressJS, MySQL, PostgreSQL** y para el frontend uso tecnologias como **HTML, CSS, VanillaJS, ReactJS**, tambien he usado otros lenguajes de programación tales como **C, C++, php y python**
 
 
-<div align="center">
 
 ## 🛠️Conocimiento técnico
 ### Lenguajes de programación
@@ -19,4 +16,10 @@
 ### Base de datos 
 ![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
 
+
+## ⚙️  GitHub Stats
+<a href="https://github.com/andreguti9190">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreguti9190&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreguti9190&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 <div>
