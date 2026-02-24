@@ -6,7 +6,7 @@
 
   Trabajo con tecnologias backend tales como **Nodejs, ExpressJS, MySQL, PostgreSQL** y para el frontend uso tecnologias como **HTML, CSS, VanillaJS, ReactJS**, tambien he usado otros lenguajes de programación tales como **C, C++, php y python**
 
-
+<br/>
 
 ## 🛠️Conocimiento técnico
 ### Lenguajes de programación
@@ -16,6 +16,7 @@
 ### Base de datos 
 ![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
 
+<br/>
 
 ## ⚙️  GitHub Stats
 <a href="https://github.com/andreguti9190">
