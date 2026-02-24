@@ -19,7 +19,7 @@
 
 ## ⚙️  GitHub Stats
 <a href="https://github.com/andreguti9190">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreguti9190&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreguti9190&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreguti9190&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreguti9190&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <div>
