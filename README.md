@@ -12,7 +12,7 @@
 ### Lenguajes de programación
 ![Lenguajes de programación](https://skillicons.dev/icons?i=c,cpp,php,html,css,js,ts,py&perline=10)
 ### Entorno de desarrollo
-![Entornos de desarrollo](https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,bash,vim,neovim,arduino,django&perline=10)
+![Entornos de desarrollo](https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,bash,vim,neovim,arduino,django&perline=11)
 ### Base de datos 
 ![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
 
