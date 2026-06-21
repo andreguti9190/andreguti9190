@@ -1,25 +1,33 @@
 <div>
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-   <img width=100% src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=900&size=26&pause=1000&color=28cBFF&center=true&width=435&lines=Hola+soy+Andr%C3%A9+Guti%C3%A9rrez%F0%9F%91%8B;T%C3%A9cnico+Inform%C3%A1tico%F0%9F%92%BB+" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=900&size=26&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHi%2C+I'm+Andr%C3%A9+Gutierrez;IT+Technician" alt="Typing SVG" width="100%"/></a>
 
-## 🧮Sobre mi
+## 🧮About me
 
-### 👨‍💻Contacto
-- Nombre: André Gutiérrez
-- Curso: 7°1
+### 👨‍💻Contact
+- Name: André Gutiérrez
+- Course: 7°1
 - Division: 7°1
-- Escuela: Secundaria Tecnica N°1 de Esteban Echeverria
+- School: Secundaria Tecnica N°1 de Esteban Echeverria
 - Email: andre.gutierrez9190@gmail.com
 
 <br/>
 
-## 🛠️Conocimiento técnico
-### Lenguajes de programación
-![Lenguajes de programación](https://skillicons.dev/icons?i=c,cpp,php,html,css,js,ts,py&perline=10)
-### Entorno de desarrollo
-![Entornos de desarrollo](https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,bash,vim,neovim,arduino,django&perline=11)
-### Base de datos 
-![Entornos de desarrollo](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
+## 🛠️Technical Skills
+### Programming Languages
+![](https://skillicons.dev/icons?i=c,cpp,php,ts,py&perline=10)
+### Web Technologies
+![](https://skillicons.dev/icons?i=html,css,js&perline=10)
+### Frameworks
+![](https://skillicons.dev/icons?i=react,express,django&perline=10)
+### Databases 
+![](https://skillicons.dev/icons?i=mysql,sqlite&perline=10)
+### Version Control
+![](https://skillicons.dev/icons?i=git,github&perline=10)
+### Code Editors
+![](https://skillicons.dev/icons?i=vscode,vim,neovim&perline=10)
+### Operating Systems & Shells
+![](https://skillicons.dev/icons?i=linux,bash&perline=10)
 
 <br/>
 
